@@ -1,9 +1,9 @@
 function PMT (ir, np, pv, fv, mtype ) {
  /*
- ir - interest rate per month
- np - number of periods (months)
- pv - present value
- fv - future value (residual value)
+ ir    - interest rate per month
+ np    - number of periods (months)
+ pv    - present value
+ fv    - future value (residual value)
  mtype - 0/1
  */
 
