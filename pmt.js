@@ -1,3 +1,7 @@
+//####################################
+//#         Excel PMT Function       #
+//####################################
+
 function PMT (ir, np, pv, fv, mtype ) {
  /*
  ir    - interest rate per month
